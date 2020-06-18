@@ -18,7 +18,7 @@ This project aims to develop an algorithm that allows to automatically segment t
 
 An example of the results obtained:
 ![Sem Título](https://user-images.githubusercontent.com/66881028/84937268-60fcf500-b0d3-11ea-87ee-9b9821fea0f4.png)
-| Image/Metrics  | Sensitivity | Specificity | Accuracy |
+| Image/Metrics  | Sensitivity (%) | Specificity (%) | Accuracy (%) |
 | ------------- | ------------- | ------------- | ------------- |
 | 40_training  | 64.45877847208224 | 98.62850631314416	| 94.79986809950357 |  
 
