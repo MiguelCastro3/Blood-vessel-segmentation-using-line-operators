@@ -9,6 +9,7 @@ This project aims to develop an algorithm that allows to automatically segment t
 * Conclusion of the remaining image processing methods.
 
 **FILES:** 
+* [Ricci_Perfetti@2007.pdf](https://github.com/MiguelCastro3/Blood-vessel-segmentation-using-line-operators/blob/master/Ricci_Perfetti%402007.pdf) - (Digital Retinal Images for Vessel Extraction) - scientific article on which the project was based.
 * [DRIVE](https://github.com/MiguelCastro3/Blood-vessel-segmentation-using-line-operators/tree/master/DRIVE) - (Digital Retinal Images for Vessel Extraction) - contains image data sets (test and training) with images for segmentation, respective mask and respective manual segmentation.
 * [Imagens segmentadas](https://github.com/MiguelCastro3/Blood-vessel-segmentation-using-line-operators/tree/master/Imagens%20segmentadas) - contains the images resulting from the algorithm developed for the automatic segmentation of retinal vessels, for different thresholds and different line lengths.
 * [segmentacao.py](https://github.com/MiguelCastro3/Blood-vessel-segmentation-using-line-operators/blob/master/segmentacao.py) - code with all the methods applied in the different images to select only the retinal vessels, through the line operators.
